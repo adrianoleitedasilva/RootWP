@@ -1,0 +1,2148 @@
+# Root WP — modelo de tradução.
+# Copyright (C) Adriano Silva. Distribuído sob a mesma licença do tema (GPL v2 ou posterior).
+msgid ""
+msgstr ""
+"Project-Id-Version: Root WP 3.3.0\n"
+"POT-Creation-Date: 2026-09-30 20:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Domain: rootwp\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 404.php:18
+msgid "Robô confuso coçando a cabeça"
+msgstr ""
+
+#: 404.php:56
+msgid "Página não encontrada"
+msgstr ""
+
+#: 404.php:57
+msgid "O endereço pode ter mudado, o conteúdo pode ter sido removido ou houve um erro de digitação. Tente uma busca ou siga por um dos caminhos abaixo."
+msgstr ""
+
+#: 404.php:60 search.php:34 searchform.php:11
+msgid "Buscar por:"
+msgstr ""
+
+#: 404.php:62 functions.php:306 search.php:36 searchform.php:12 inc/widgets.php:234
+msgid "Buscar artigos…"
+msgstr ""
+
+#: 404.php:63 header.php:55 search.php:40 searchform.php:13 inc/widgets.php:240 inc/widgets.php:242
+msgid "Buscar"
+msgstr ""
+
+#: 404.php:67
+msgid "Ir para o início"
+msgstr ""
+
+#: 404.php:69
+msgid "Ver todos os artigos"
+msgstr ""
+
+#: author.php:62
+msgid "artigo"
+msgid_plural "artigos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: author.php:63
+msgid "tema"
+msgid_plural "temas"
+msgstr[0] ""
+msgstr[1] ""
+
+#: author.php:64
+msgid "comentário recebido"
+msgid_plural "comentários recebidos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: author.php:67
+msgid "escrevendo desde"
+msgstr ""
+
+#: author.php:80 inc/comments.php:69
+msgid "autor"
+msgstr ""
+
+#: author.php:87 inc/template-tags.php:297
+msgid "Espaço para a sua bio."
+msgstr ""
+
+#: author.php:88 inc/template-tags.php:298
+msgid "Escrever em Usuários > Perfil"
+msgstr ""
+
+#. translators: %s: nome da categoria
+#: author.php:117
+#, php-format
+msgid "Artigos sobre %s"
+msgstr ""
+
+#: author.php:119 inc/admin.php:214
+msgid "Artigos"
+msgstr ""
+
+#: author.php:126
+msgid "Todos"
+msgstr ""
+
+#: author.php:149
+msgid "Nenhum artigo por aqui ainda."
+msgstr ""
+
+#: author.php:153 inc/template-tags.php:286
+msgid "Sobre o autor"
+msgstr ""
+
+#: author.php:156
+msgid "Temas"
+msgstr ""
+
+#: author.php:167
+msgid "Mais comentados"
+msgstr ""
+
+#. translators: %d: número de comentários
+#: author.php:180 comments.php:19
+#, php-format
+msgid "%d comentário"
+msgid_plural "%d comentários"
+msgstr[0] ""
+msgstr[1] ""
+
+#: author.php:194
+msgid "Acompanhe"
+msgstr ""
+
+#: author.php:195
+msgid "Receba os novos artigos pelo seu leitor de RSS."
+msgstr ""
+
+#: author.php:196
+msgid "Assinar o feed"
+msgstr ""
+
+#: comments.php:38
+msgid "Os comentários estão encerrados."
+msgstr ""
+
+#: footer.php:59 functions.php:39
+msgid "Menu do rodapé"
+msgstr ""
+
+#: footer.php:73
+msgid "Voltar ao topo"
+msgstr ""
+
+#: functions.php:38 header.php:33
+msgid "Menu principal"
+msgstr ""
+
+#: functions.php:57 inc/admin.php:502
+msgid "Principal"
+msgstr ""
+
+#: functions.php:58
+msgid "Principal suave"
+msgstr ""
+
+#: functions.php:59 inc/admin.php:503
+msgid "Destaque"
+msgstr ""
+
+#: functions.php:60 inc/admin.php:506 inc/admin.php:519 inc/admin.php:671 inc/admin.php:1038 inc/admin.php:1242
+msgid "Texto"
+msgstr ""
+
+#: functions.php:61
+msgid "Texto secundário"
+msgstr ""
+
+#: functions.php:62 inc/admin.php:505 inc/admin.php:518
+msgid "Superfície"
+msgstr ""
+
+#: functions.php:116
+msgid "Barra lateral do blog"
+msgstr ""
+
+#: functions.php:118
+msgid "Exibida nas listagens do blog, categorias e busca."
+msgstr ""
+
+#. translators: %d: número da coluna
+#: functions.php:129
+#, php-format
+msgid "Rodapé – coluna %d"
+msgstr ""
+
+#: functions.php:183
+msgid "Copiar"
+msgstr ""
+
+#: functions.php:184
+msgid "Copiado!"
+msgstr ""
+
+#: functions.php:185
+msgid "Copiar o código"
+msgstr ""
+
+#. translators: %d: minutos restantes de leitura
+#: functions.php:187
+#, php-format
+msgid "faltam %d min"
+msgstr ""
+
+#: functions.php:188
+msgid "falta menos de 1 min"
+msgstr ""
+
+#: functions.php:189
+msgid "leitura concluída ✓"
+msgstr ""
+
+#: functions.php:339
+msgid "Dica"
+msgstr ""
+
+#: functions.php:340
+msgid "Atenção"
+msgstr ""
+
+#: functions.php:341
+msgid "Importante"
+msgstr ""
+
+#: header.php:19
+msgid "Pular para o conteúdo"
+msgstr ""
+
+#: header.php:60
+msgid "Alternar modo escuro"
+msgstr ""
+
+#: header.php:65
+msgid "Abrir menu"
+msgstr ""
+
+#: index.php:19
+msgid "Blog"
+msgstr ""
+
+#: search.php:21
+msgid "busca"
+msgstr ""
+
+#. translators: %s: termo buscado
+#: search.php:26
+#, php-format
+msgid "Resultados para “%s”"
+msgstr ""
+
+#: search.php:28
+msgid "O que você está procurando?"
+msgstr ""
+
+#. translators: %d: número de resultados
+#: search.php:48
+#, php-format
+msgid "%d artigo encontrado"
+msgid_plural "%d artigos encontrados"
+msgstr[0] ""
+msgstr[1] ""
+
+#: search.php:50
+msgid "Nenhum artigo encontrado."
+msgstr ""
+
+#: search.php:59 inc/widgets.php:341
+msgid "Todas"
+msgstr ""
+
+#: search.php:88
+msgid "Dicas: confira a ortografia, use menos palavras ou termos mais gerais, como “javascript” em vez de “erro no fetch do javascript”."
+msgstr ""
+
+#: sidebar.php:12 inc/admin.php:1002
+msgid "Barra lateral"
+msgstr ""
+
+#: single.php:111
+msgid "Páginas:"
+msgstr ""
+
+#: single.php:142
+msgid "← Anterior"
+msgstr ""
+
+#: single.php:143
+msgid "Próximo →"
+msgstr ""
+
+#: inc/admin.php:67
+msgid "Neste artigo"
+msgstr ""
+
+#: inc/admin.php:76
+msgid "Continue aprendendo"
+msgstr ""
+
+#: inc/admin.php:83
+msgid "Este artigo foi atualizado pela última vez há {tempo}. Algumas informações podem estar desatualizadas."
+msgstr ""
+
+#: inc/admin.php:133 inc/admin.php:790 inc/admin.php:885 inc/discovery.php:125
+msgid "Artigos recentes"
+msgstr ""
+
+#: inc/admin.php:134
+msgid "O que publiquei por último sobre tecnologia e educação."
+msgstr ""
+
+#: inc/admin.php:135
+msgid "Ver todos"
+msgstr ""
+
+#: inc/admin.php:138 inc/admin.php:791 inc/admin.php:909 inc/discovery.php:118
+msgid "Explore por tema"
+msgstr ""
+
+#: inc/admin.php:139
+msgid "Encontre conteúdos organizados por assunto."
+msgstr ""
+
+#: inc/admin.php:184
+msgid "Logo e favicon"
+msgstr ""
+
+#: inc/admin.php:190
+msgid "Página inicial"
+msgstr ""
+
+#: inc/admin.php:196
+msgid "Aparência"
+msgstr ""
+
+#: inc/admin.php:202
+msgid "Cores"
+msgstr ""
+
+#: inc/admin.php:208
+msgid "Cabeçalho"
+msgstr ""
+
+#: inc/admin.php:228
+msgid "Avisos"
+msgstr ""
+
+#: inc/admin.php:234
+msgid "SEO e integrações"
+msgstr ""
+
+#: inc/admin.php:240
+msgid "Ferramentas"
+msgstr ""
+
+#: inc/admin.php:247
+msgid "Rodapé"
+msgstr ""
+
+#: inc/admin.php:259 inc/admin.php:260 inc/admin.php:619
+msgid "Root WP"
+msgstr ""
+
+#: inc/admin.php:481
+msgid "Escolher logo"
+msgstr ""
+
+#: inc/admin.php:482
+msgid "Usar esta imagem"
+msgstr ""
+
+#: inc/admin.php:486
+msgid "boa leitura"
+msgstr ""
+
+#: inc/admin.php:487
+msgid "só para textos grandes"
+msgstr ""
+
+#: inc/admin.php:488
+msgid "contraste baixo"
+msgstr ""
+
+#: inc/admin.php:500
+msgid "Modo claro"
+msgstr ""
+
+#: inc/admin.php:502
+msgid "Links, botões, bubbles e destaques. No modo escuro é clareada automaticamente."
+msgstr ""
+
+#: inc/admin.php:503
+msgid "Detalhes secundários: barra de progresso de leitura e box \"Atenção\"."
+msgstr ""
+
+#: inc/admin.php:504 inc/admin.php:517
+msgid "Fundo"
+msgstr ""
+
+#: inc/admin.php:505
+msgid "Fundo de cartões, caixa do autor, rodapé e seções alternadas."
+msgstr ""
+
+#: inc/admin.php:509 inc/admin.php:522
+msgid "Texto sobre o fundo"
+msgstr ""
+
+#: inc/admin.php:510 inc/admin.php:523
+msgid "Links sobre o fundo"
+msgstr ""
+
+#: inc/admin.php:511 inc/admin.php:524
+msgid "Texto dos botões"
+msgstr ""
+
+#: inc/admin.php:515 inc/admin.php:957
+msgid "Modo escuro"
+msgstr ""
+
+#: inc/admin.php:530
+msgid "Paletas prontas"
+msgstr ""
+
+#: inc/admin.php:531
+msgid "Combinações testadas nos modos claro e escuro. Clique para aplicar e depois ajuste o que quiser; nada muda no site até você salvar."
+msgstr ""
+
+#: inc/admin.php:573
+msgid "Restaurar cores padrão"
+msgstr ""
+
+#: inc/admin.php:574
+msgid "Volta para a paleta Azul. Clique em \"Salvar alterações\" para aplicar."
+msgstr ""
+
+#: inc/admin.php:580
+msgid "Prévia"
+msgstr ""
+
+#: inc/admin.php:581 inc/admin.php:964
+msgid "Claro"
+msgstr ""
+
+#: inc/admin.php:581 inc/admin.php:965 inc/widgets.php:1222
+msgid "Escuro"
+msgstr ""
+
+#: inc/admin.php:585
+msgid "tecnologia"
+msgstr ""
+
+#: inc/admin.php:586
+msgid "Título do artigo"
+msgstr ""
+
+#: inc/admin.php:587
+msgid "Um trecho do texto com um"
+msgstr ""
+
+#: inc/admin.php:587
+msgid "link no meio"
+msgstr ""
+
+#: inc/admin.php:588
+msgid "30 de setembro · 5 min de leitura"
+msgstr ""
+
+#: inc/admin.php:589
+msgid "Ler artigo"
+msgstr ""
+
+#: inc/admin.php:640
+msgid "Salvar alterações"
+msgstr ""
+
+#: inc/admin.php:667
+msgid "Tipo de logo"
+msgstr ""
+
+#: inc/admin.php:671
+msgid "Exibe o nome em JetBrains Mono."
+msgstr ""
+
+#: inc/admin.php:675 inc/admin.php:697 inc/admin.php:1283
+msgid "Imagem"
+msgstr ""
+
+#: inc/admin.php:675
+msgid "Usa um arquivo enviado (PNG, SVG, JPG)."
+msgstr ""
+
+#: inc/admin.php:681
+msgid "Logo em texto"
+msgstr ""
+
+#: inc/admin.php:684
+msgid "Texto do logo"
+msgstr ""
+
+#: inc/admin.php:687
+msgid "Vazio = usa o título do site."
+msgstr ""
+
+#: inc/admin.php:694
+msgid "Logo em imagem"
+msgstr ""
+
+#: inc/admin.php:702 inc/admin.php:735 inc/admin.php:842 inc/admin.php:1288 inc/admin.php:1346 inc/categories.php:216
+msgid "Escolher imagem"
+msgstr ""
+
+#: inc/admin.php:703 inc/admin.php:736 inc/admin.php:843 inc/admin.php:1289 inc/admin.php:1347 inc/categories.php:217
+msgid "Remover"
+msgstr ""
+
+#: inc/admin.php:708
+msgid "Altura máxima"
+msgstr ""
+
+#: inc/admin.php:717
+msgid "Descrição"
+msgstr ""
+
+#: inc/admin.php:720
+msgid "Exibir a descrição do site abaixo do logo"
+msgstr ""
+
+#: inc/admin.php:730
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin.php:731
+msgid "Ícone exibido na aba do navegador, nos favoritos e na tela inicial do celular. Use uma imagem quadrada PNG de pelo menos 512 × 512 px."
+msgstr ""
+
+#: inc/admin.php:732
+msgid "Escolher favicon"
+msgstr ""
+
+#: inc/admin.php:739
+msgid "No momento está sendo usado o \"Ícone do site\" definido em Configurações > Geral. Ao escolher uma imagem aqui, ela passa a ter prioridade."
+msgstr ""
+
+#: inc/admin.php:789
+msgid "Conteúdo da página"
+msgstr ""
+
+#: inc/admin.php:789
+msgid "O que você escrever no editor da página \"Início\"."
+msgstr ""
+
+#: inc/admin.php:796
+msgid "Todas as categorias"
+msgstr ""
+
+#. translators: %s: link para Configurações > Leitura
+#: inc/admin.php:819
+#, php-format
+msgid "Seu site está exibindo \"os posts mais recentes\" como página inicial, então estas opções não aparecem. Para usá-las, escolha uma página estática em %s."
+msgstr ""
+
+#: inc/admin.php:820
+msgid "Configurações > Leitura"
+msgstr ""
+
+#: inc/admin.php:828
+msgid "Topo da página (destaque)"
+msgstr ""
+
+#: inc/admin.php:830
+msgid "Chamada acima do título"
+msgstr ""
+
+#: inc/admin.php:831
+msgid "Título principal"
+msgstr ""
+
+#: inc/admin.php:833
+msgid "Texto de apresentação"
+msgstr ""
+
+#: inc/admin.php:837
+msgid "Imagem ao lado"
+msgstr ""
+
+#: inc/admin.php:839
+msgid "Imagem de destaque"
+msgstr ""
+
+#: inc/admin.php:845
+msgid "Opcional. Sem imagem, o texto ocupa a largura toda."
+msgstr ""
+
+#: inc/admin.php:850
+msgid "Botões"
+msgstr ""
+
+#: inc/admin.php:853
+msgid "Botão 1 – texto"
+msgstr ""
+
+#: inc/admin.php:854
+msgid "Botão 1 – link"
+msgstr ""
+
+#: inc/admin.php:854
+msgid "Vazio = página do blog."
+msgstr ""
+
+#: inc/admin.php:856
+msgid "Abrir o botão 1 em nova aba"
+msgstr ""
+
+#: inc/admin.php:858
+msgid "Botão 2 – texto"
+msgstr ""
+
+#: inc/admin.php:859
+msgid "Botão 2 – link"
+msgstr ""
+
+#: inc/admin.php:859 inc/admin.php:891
+msgid "Vazio = botão oculto."
+msgstr ""
+
+#: inc/admin.php:861
+msgid "Abrir o botão 2 em nova aba"
+msgstr ""
+
+#: inc/admin.php:866
+msgid "Ordem das seções"
+msgstr ""
+
+#: inc/admin.php:867
+msgid "Arraste para definir a ordem em que aparecem abaixo do topo."
+msgstr ""
+
+#: inc/admin.php:886 inc/admin.php:910
+msgid "Exibir a seção"
+msgstr ""
+
+#: inc/admin.php:889 inc/admin.php:913 inc/admin.php:1272 inc/admin.php:1434
+msgid "Título"
+msgstr ""
+
+#: inc/admin.php:890 inc/admin.php:914
+msgid "Subtítulo"
+msgstr ""
+
+#: inc/admin.php:891 inc/admin.php:1278
+msgid "Texto do botão"
+msgstr ""
+
+#: inc/admin.php:892 inc/admin.php:929 inc/admin.php:1194
+msgid "Quantidade"
+msgstr ""
+
+#: inc/admin.php:895
+msgid "Categoria"
+msgstr ""
+
+#: inc/admin.php:902
+msgid "Com uma categoria escolhida, o botão leva para a página dela."
+msgstr ""
+
+#: inc/admin.php:917
+msgid "Mostrar a quantidade de artigos em cada tema"
+msgstr ""
+
+#: inc/admin.php:922
+msgid "Automático"
+msgstr ""
+
+#: inc/admin.php:922
+msgid "As categorias com mais artigos."
+msgstr ""
+
+#: inc/admin.php:923
+msgid "Escolher manualmente"
+msgstr ""
+
+#: inc/admin.php:923
+msgid "Você marca quais aparecem e arrasta para ordenar."
+msgstr ""
+
+#: inc/admin.php:944
+msgid "Nenhuma categoria criada ainda."
+msgstr ""
+
+#: inc/admin.php:958
+msgid "Tema exibido na primeira visita. Depois que o visitante usa o botão, a escolha dele é lembrada."
+msgstr ""
+
+#: inc/admin.php:963
+msgid "Seguir o sistema"
+msgstr ""
+
+#: inc/admin.php:963
+msgid "Usa a preferência do dispositivo."
+msgstr ""
+
+#: inc/admin.php:964
+msgid "Sempre começa no modo claro."
+msgstr ""
+
+#: inc/admin.php:965
+msgid "Sempre começa no modo escuro."
+msgstr ""
+
+#: inc/admin.php:968
+msgid "Exibir o botão de alternar modo escuro no cabeçalho"
+msgstr ""
+
+#: inc/admin.php:973
+msgid "Tamanho da fonte do artigo"
+msgstr ""
+
+#: inc/admin.php:978
+msgid "Pequeno"
+msgstr ""
+
+#: inc/admin.php:979
+msgid "Médio"
+msgstr ""
+
+#: inc/admin.php:980
+msgid "Grande"
+msgstr ""
+
+#: inc/admin.php:987
+msgid "Largura do conteúdo"
+msgstr ""
+
+#: inc/admin.php:988
+msgid "Largura da coluna de texto em artigos e páginas."
+msgstr ""
+
+#: inc/admin.php:993
+msgid "Estreita"
+msgstr ""
+
+#: inc/admin.php:994
+msgid "Normal"
+msgstr ""
+
+#: inc/admin.php:995
+msgid "Larga"
+msgstr ""
+
+#. translators: %s: link para a tela de widgets
+#: inc/admin.php:1007
+#, php-format
+msgid "Os widgets são configurados em %s. A barra só aparece se tiver algum widget."
+msgstr ""
+
+#: inc/admin.php:1008
+msgid "Aparência > Widgets"
+msgstr ""
+
+#: inc/admin.php:1013
+msgid "Exibir na listagem de posts (blog, categorias, busca)"
+msgstr ""
+
+#: inc/admin.php:1014
+msgid "Exibir nos artigos (acima do sumário, em telas largas)"
+msgstr ""
+
+#: inc/admin.php:1026
+msgid "Comportamento"
+msgstr ""
+
+#: inc/admin.php:1028
+msgid "Manter o cabeçalho fixo no topo ao rolar a página"
+msgstr ""
+
+#: inc/admin.php:1029
+msgid "Exibir o botão de busca"
+msgstr ""
+
+#: inc/admin.php:1034
+msgid "Botão de destaque"
+msgstr ""
+
+#: inc/admin.php:1035
+msgid "Aparece ao lado do menu. Preencha texto e link para exibir, ou deixe em branco para ocultar."
+msgstr ""
+
+#: inc/admin.php:1039
+msgid "Ex.: Contato"
+msgstr ""
+
+#: inc/admin.php:1042 inc/admin.php:1244
+msgid "Link"
+msgstr ""
+
+#: inc/admin.php:1045
+msgid "Abrir em nova aba"
+msgstr ""
+
+#: inc/admin.php:1049
+msgid "Estilo"
+msgstr ""
+
+#: inc/admin.php:1055
+msgid "Preenchido"
+msgstr ""
+
+#: inc/admin.php:1055
+msgid "Fundo na cor principal."
+msgstr ""
+
+#: inc/admin.php:1056
+msgid "Contorno"
+msgstr ""
+
+#: inc/admin.php:1056
+msgid "Só a borda, mais discreto."
+msgstr ""
+
+#: inc/admin.php:1101 inc/toc.php:118
+msgid "Sumário"
+msgstr ""
+
+#: inc/admin.php:1102
+msgid "Gerar sumário automático ao lado do artigo (em telas largas)"
+msgstr ""
+
+#: inc/admin.php:1107
+msgid "Só títulos principais"
+msgstr ""
+
+#: inc/admin.php:1107
+msgid "Usa os títulos H2."
+msgstr ""
+
+#: inc/admin.php:1108
+msgid "Títulos e subtítulos"
+msgstr ""
+
+#: inc/admin.php:1108
+msgid "Usa H2 e H3, com recuo nos subtítulos."
+msgstr ""
+
+#: inc/admin.php:1114
+msgid "Título do sumário"
+msgstr ""
+
+#: inc/admin.php:1117
+msgid "Mínimo de títulos"
+msgstr ""
+
+#: inc/admin.php:1122
+msgid "Artigos com menos títulos que isso não exibem o sumário."
+msgstr ""
+
+#: inc/admin.php:1130
+msgid "Leitura"
+msgstr ""
+
+#: inc/admin.php:1132
+msgid "Exibir tempo estimado de leitura (no artigo e nos cards)"
+msgstr ""
+
+#: inc/admin.php:1133
+msgid "Exibir barra de progresso de leitura no topo da tela"
+msgstr ""
+
+#: inc/admin.php:1134
+msgid "Mostrar o tempo restante de leitura (\"faltam 3 min\") no canto da tela"
+msgstr ""
+
+#: inc/admin.php:1135
+msgid "Mostrar os botões A− A A+ para o visitante ajustar o tamanho do texto"
+msgstr ""
+
+#: inc/admin.php:1136
+msgid "Mostrar o botão \"Copiar\" nos blocos de código"
+msgstr ""
+
+#: inc/admin.php:1142
+msgid "Velocidade de leitura"
+msgstr ""
+
+#: inc/admin.php:1147
+msgid "palavras por minuto"
+msgstr ""
+
+#: inc/admin.php:1148
+msgid "Média de um adulto: 200 a 250. Para conteúdo técnico, valores menores são mais realistas."
+msgstr ""
+
+#: inc/admin.php:1156
+msgid "Séries de artigos"
+msgstr ""
+
+#: inc/admin.php:1157
+msgid "Agrupe artigos em partes (Parte 1, 2, 3…). No editor do post, marque a série na caixa \"Séries\", como faz com as categorias. A ordem das partes é a data de publicação."
+msgstr ""
+
+#: inc/admin.php:1158
+msgid "Ativar séries: caixa \"Parte X de Y\" no topo do artigo, navegação entre as partes e página da série"
+msgstr ""
+
+#: inc/admin.php:1160
+msgid "Gerenciar séries"
+msgstr ""
+
+#: inc/admin.php:1165
+msgid "Compartilhamento"
+msgstr ""
+
+#: inc/admin.php:1166
+msgid "Exibir botões de compartilhar no fim do artigo"
+msgstr ""
+
+#: inc/admin.php:1175
+msgid "Autor"
+msgstr ""
+
+#: inc/admin.php:1176
+msgid "Exibir a caixa \"Escrito por\" no fim do artigo"
+msgstr ""
+
+#: inc/admin.php:1180
+msgid "Posts relacionados"
+msgstr ""
+
+#: inc/admin.php:1181
+msgid "Exibir posts relacionados no fim do artigo"
+msgstr ""
+
+#: inc/admin.php:1186
+msgid "Mesma categoria"
+msgstr ""
+
+#: inc/admin.php:1186
+msgid "Mais abrangente."
+msgstr ""
+
+#: inc/admin.php:1187
+msgid "Mesmas tags"
+msgstr ""
+
+#: inc/admin.php:1187
+msgid "Mais preciso; usa a categoria se o post não tiver tags."
+msgstr ""
+
+#: inc/admin.php:1193
+msgid "Título da seção"
+msgstr ""
+
+#: inc/admin.php:1200
+msgid "Aviso em posts antigos"
+msgstr ""
+
+#: inc/admin.php:1201
+msgid "Mostra um alerta no topo de artigos que não são atualizados há muito tempo. Conta a partir da última atualização do post."
+msgstr ""
+
+#: inc/admin.php:1202
+msgid "Exibir o aviso"
+msgstr ""
+
+#: inc/admin.php:1207
+msgid "Considerar antigo após"
+msgstr ""
+
+#: inc/admin.php:1212
+msgid "meses"
+msgstr ""
+
+#: inc/admin.php:1217
+msgid "Texto do aviso"
+msgstr ""
+
+#: inc/admin.php:1220
+msgid "Use {tempo} para o tempo desde a atualização (ex.: \"2 anos\")."
+msgstr ""
+
+#: inc/admin.php:1237
+msgid "Barra de aviso no topo"
+msgstr ""
+
+#: inc/admin.php:1238
+msgid "Uma faixa acima do cabeçalho, em todas as páginas. Bom para divulgar um curso, evento, material novo ou aviso importante."
+msgstr ""
+
+#: inc/admin.php:1239
+msgid "Exibir a barra de aviso"
+msgstr ""
+
+#: inc/admin.php:1242
+msgid "Curto, de preferência em uma linha. Ex.: \"Novo curso de JavaScript com inscrições abertas\"."
+msgstr ""
+
+#: inc/admin.php:1243
+msgid "Texto do link"
+msgstr ""
+
+#: inc/admin.php:1243
+msgid "Ex.: \"Saiba mais\". Vazio = sem link."
+msgstr ""
+
+#: inc/admin.php:1246 inc/admin.php:1281
+msgid "Abrir o link em nova aba"
+msgstr ""
+
+#: inc/admin.php:1248
+msgid "Cor"
+msgstr ""
+
+#: inc/admin.php:1254
+msgid "Cor principal"
+msgstr ""
+
+#: inc/admin.php:1254
+msgid "Chama bastante atenção."
+msgstr ""
+
+#: inc/admin.php:1255
+msgid "Cor de destaque"
+msgstr ""
+
+#: inc/admin.php:1255
+msgid "Para promoções e novidades."
+msgstr ""
+
+#: inc/admin.php:1256
+msgid "Escura"
+msgstr ""
+
+#: inc/admin.php:1256
+msgid "Sóbria, combina com tudo."
+msgstr ""
+
+#: inc/admin.php:1257
+msgid "Suave"
+msgstr ""
+
+#: inc/admin.php:1257
+msgid "Tom claro, discreta."
+msgstr ""
+
+#: inc/admin.php:1263
+msgid "Permitir fechar (o visitante não vê de novo até você mudar o texto ou o link)"
+msgstr ""
+
+#: inc/admin.php:1268
+msgid "Chamada no fim dos artigos"
+msgstr ""
+
+#: inc/admin.php:1269
+msgid "Um bloco em destaque logo depois do texto de cada artigo: newsletter, curso, mentoria, redes sociais…"
+msgstr ""
+
+#: inc/admin.php:1270
+msgid "Exibir a chamada"
+msgstr ""
+
+#: inc/admin.php:1272
+msgid "Ex.: \"Gostou do conteúdo?\""
+msgstr ""
+
+#: inc/admin.php:1278
+msgid "Ex.: \"Quero receber\". Vazio = sem botão."
+msgstr ""
+
+#: inc/admin.php:1279
+msgid "Link do botão"
+msgstr ""
+
+#: inc/admin.php:1285
+msgid "Imagem da chamada"
+msgstr ""
+
+#: inc/admin.php:1291
+msgid "Opcional: capa do curso, ebook, sua foto…"
+msgstr ""
+
+#: inc/admin.php:1295
+msgid "Não exibir em"
+msgstr ""
+
+#: inc/admin.php:1303
+msgid "Marque as categorias em que a chamada não deve aparecer."
+msgstr ""
+
+#: inc/admin.php:1320
+msgid "No <head>"
+msgstr ""
+
+#: inc/admin.php:1320
+msgid "Verificações (Google Search Console, Pinterest, Meta), pixels e estilos extras."
+msgstr ""
+
+#: inc/admin.php:1321
+msgid "Logo após o <body>"
+msgstr ""
+
+#: inc/admin.php:1321
+msgid "Códigos que pedem para ficar no início da página (ex.: noscript de ferramentas)."
+msgstr ""
+
+#: inc/admin.php:1322
+msgid "Antes do </body>"
+msgstr ""
+
+#: inc/admin.php:1322
+msgid "Chat, widgets de terceiros e scripts que podem carregar por último."
+msgstr ""
+
+#: inc/admin.php:1326
+msgid "Prévia ao compartilhar links (SEO)"
+msgstr ""
+
+#: inc/admin.php:1327
+msgid "Gera a descrição da página e as informações que WhatsApp, LinkedIn, Facebook, X e Google usam para montar a prévia: título, resumo e imagem."
+msgstr ""
+
+#: inc/admin.php:1329
+msgid "Um plugin de SEO está ativo. Para não duplicar, o tema não gera essas informações enquanto ele estiver ligado; as opções abaixo ficam sem efeito."
+msgstr ""
+
+#: inc/admin.php:1331
+msgid "Gerar descrição e prévia de compartilhamento"
+msgstr ""
+
+#: inc/admin.php:1334
+msgid "Descrição da página inicial"
+msgstr ""
+
+#: inc/admin.php:1337
+msgid "Até ~160 caracteres. Vazio = descrição do site (Configurações > Geral). Nos posts, é usado o Resumo ou o início do texto."
+msgstr ""
+
+#: inc/admin.php:1341
+msgid "Imagem padrão"
+msgstr ""
+
+#: inc/admin.php:1343
+msgid "Imagem padrão para compartilhamento"
+msgstr ""
+
+#: inc/admin.php:1349
+msgid "Usada quando o post não tem imagem destacada (e nas páginas sem imagem). Ideal: 1200 × 630 px."
+msgstr ""
+
+#: inc/admin.php:1352
+msgid "Perfil no X (Twitter)"
+msgstr ""
+
+#: inc/admin.php:1352
+msgid "Opcional, sem o @. Aparece como autor da prévia no X."
+msgstr ""
+
+#: inc/admin.php:1355
+msgid "Para testar a prévia depois de salvar:"
+msgstr ""
+
+#: inc/admin.php:1359
+msgid "(o site precisa estar publicado na internet; em localhost eles não conseguem acessar)."
+msgstr ""
+
+#: inc/admin.php:1364
+msgid "Estatísticas (Google)"
+msgstr ""
+
+#: inc/admin.php:1369
+msgid "ID do Analytics ou Tag Manager"
+msgstr ""
+
+#: inc/admin.php:1371
+msgid "Cole só o ID: G-XXXXXXXXXX (Google Analytics 4) ou GTM-XXXXXXX (Tag Manager). O tema insere o código certo."
+msgstr ""
+
+#: inc/admin.php:1381
+msgid "✓ Google Analytics 4 ativo."
+msgstr ""
+
+#: inc/admin.php:1383
+msgid "✓ Google Tag Manager ativo."
+msgstr ""
+
+#: inc/admin.php:1385
+msgid "⚠ ID não reconhecido: use o formato G-… ou GTM-…"
+msgstr ""
+
+#: inc/admin.php:1390
+msgid "Não contar as visitas de quem está logado (você e outros autores)"
+msgstr ""
+
+#: inc/admin.php:1397
+msgid "Códigos extras"
+msgstr ""
+
+#: inc/admin.php:1398
+msgid "Cole aqui códigos de verificação, pixels ou ferramentas. Eles aparecem em todas as páginas do site."
+msgstr ""
+
+#: inc/admin.php:1400
+msgid "Sua conta não tem permissão para salvar scripts; estes campos ficam somente leitura."
+msgstr ""
+
+#: inc/admin.php:1413
+msgid "Atenção: um código com erro pode quebrar o visual ou o funcionamento do site. Cole apenas códigos de fontes confiáveis."
+msgstr ""
+
+#: inc/admin.php:1423
+msgid "Exibir colunas de widgets (Aparência > Widgets)"
+msgstr ""
+
+#: inc/admin.php:1424
+msgid "Exibir o menu do rodapé"
+msgstr ""
+
+#: inc/admin.php:1425
+msgid "Exibir ícones das redes sociais (na linha do copyright)"
+msgstr ""
+
+#: inc/admin.php:1426
+msgid "Exibir link \"Voltar ao topo\""
+msgstr ""
+
+#: inc/admin.php:1430
+msgid "Sobre"
+msgstr ""
+
+#: inc/admin.php:1431
+msgid "Bloco de apresentação exibido na primeira coluna do rodapé. Deixe o texto vazio para ocultar."
+msgstr ""
+
+#: inc/admin.php:1445
+msgid "Redes sociais"
+msgstr ""
+
+#: inc/admin.php:1446
+msgid "Deixe em branco as que não quiser exibir."
+msgstr ""
+
+#: inc/admin.php:1458
+msgid "Direitos autorais"
+msgstr ""
+
+#: inc/admin.php:1461
+msgid "Texto da linha final"
+msgstr ""
+
+#: inc/admin.php:1464
+msgid "Aceita HTML simples. Use {ano} para o ano atual. Vazio = \"© ano Nome do site\"."
+msgstr ""
+
+#: inc/admin.php:1471
+msgid "Exibição"
+msgstr ""
+
+#: inc/admin.php:1496
+msgid "Opções do tema"
+msgstr ""
+
+#: inc/categories.php:24
+msgid "Grade — cards em colunas, o mais recente em destaque"
+msgstr ""
+
+#: inc/categories.php:25
+msgid "Lista — imagem à esquerda e resumo à direita"
+msgstr ""
+
+#: inc/categories.php:26
+msgid "Revista — um destaque grande e dois menores, depois a grade"
+msgstr ""
+
+#: inc/categories.php:27
+msgid "Compacta — só data e título, agrupados por mês"
+msgstr ""
+
+#: inc/categories.php:38
+msgid "Padrão"
+msgstr ""
+
+#: inc/categories.php:39
+msgid "Leitura focada"
+msgstr ""
+
+#: inc/categories.php:40
+msgid "Capa em tela cheia"
+msgstr ""
+
+#: inc/categories.php:41 inc/categories.php:341
+msgid "Tutorial"
+msgstr ""
+
+#: inc/categories.php:42 inc/widgets.php:923 inc/widgets.php:935
+msgid "Vídeo"
+msgstr ""
+
+#. translators: %d: número de artigos
+#: inc/categories.php:116 inc/home.php:162
+#, php-format
+msgid "%d artigo"
+msgid_plural "%d artigos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/categories.php:180
+msgid "Layout da página da categoria"
+msgstr ""
+
+#: inc/categories.php:183
+msgid "Padrão (grade)"
+msgstr ""
+
+#: inc/categories.php:192
+msgid "Template padrão dos posts"
+msgstr ""
+
+#: inc/categories.php:200
+msgid "Usado pelos posts desta categoria que não tiverem um \"Modelo\" próprio escolhido no editor."
+msgstr ""
+
+#: inc/categories.php:203
+msgid "Cor da categoria"
+msgstr ""
+
+#: inc/categories.php:207
+msgid "Aplicada nas bubbles da categoria, nos cartões de tema e no topo da página da categoria. Vazio = cor principal do site."
+msgstr ""
+
+#: inc/categories.php:210
+msgid "Imagem de capa"
+msgstr ""
+
+#: inc/categories.php:213
+msgid "Imagem de capa da categoria"
+msgstr ""
+
+#: inc/categories.php:221
+msgid "Exibida como faixa no topo da página da categoria."
+msgstr ""
+
+#: inc/categories.php:282
+msgid "Layout / template"
+msgstr ""
+
+#: inc/categories.php:300
+msgid "Grade"
+msgstr ""
+
+#: inc/categories.php:301 inc/widgets.php:520
+msgid "Lista"
+msgstr ""
+
+#: inc/categories.php:302
+msgid "Revista"
+msgstr ""
+
+#: inc/categories.php:303
+msgid "Compacta"
+msgstr ""
+
+#. translators: %s: nome do template
+#: inc/categories.php:315
+#, php-format
+msgid "Posts: %s"
+msgstr ""
+
+#: inc/categories.php:331
+msgid "Iniciante"
+msgstr ""
+
+#: inc/categories.php:332
+msgid "Intermediário"
+msgstr ""
+
+#: inc/categories.php:333
+msgid "Avançado"
+msgstr ""
+
+#: inc/categories.php:355
+msgid "Exibido no topo quando o post usa o template Tutorial."
+msgstr ""
+
+#: inc/categories.php:357 inc/categories.php:420
+msgid "Nível"
+msgstr ""
+
+#: inc/categories.php:359
+msgid "— Não informar —"
+msgstr ""
+
+#: inc/categories.php:366 inc/categories.php:423
+msgid "Tempo estimado"
+msgstr ""
+
+#: inc/categories.php:367
+msgid "Ex.: 30 min"
+msgstr ""
+
+#. translators: %d: número de passos
+#: inc/categories.php:427
+msgid "Passos"
+msgstr ""
+
+#. translators: %d: número de passos
+#: inc/categories.php:427
+#, php-format
+msgid "%d passo"
+msgid_plural "%d passos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/colors.php:43
+msgid "Azul (padrão)"
+msgstr ""
+
+#: inc/colors.php:47
+msgid "Verde"
+msgstr ""
+
+#: inc/colors.php:60
+msgid "Roxo"
+msgstr ""
+
+#: inc/colors.php:73
+msgid "Laranja"
+msgstr ""
+
+#: inc/colors.php:86
+msgid "Grafite"
+msgstr ""
+
+#. translators: 1: data, 2: hora
+#: inc/comments.php:23
+#, php-format
+msgid "%1$s às %2$s"
+msgstr ""
+
+#. translators: 1: data, 2: hora */ $full = sprintf( __( '%1$s às %2$s', 'rootwp' ), get_comment_date( '', $comment ), get_comment_time( '', false, true, $comment ) ); if ( time() - $time < 30 * DAY_IN_SECONDS ) { /* translators: %s: tempo decorrido, ex. "2 horas"
+#: inc/comments.php:27
+#, php-format
+msgid "há %s"
+msgstr ""
+
+#: inc/comments.php:54
+msgid "Menção:"
+msgstr ""
+
+#: inc/comments.php:76
+msgid "Seu comentário está aguardando moderação."
+msgstr ""
+
+#: inc/comments.php:89
+msgid "Responder"
+msgstr ""
+
+#: inc/comments.php:96
+msgid "Editar"
+msgstr ""
+
+#: inc/comments.php:111
+msgid "Deixe seu comentário"
+msgstr ""
+
+#. translators: %s: nome de quem está sendo respondido
+#: inc/comments.php:113
+#, php-format
+msgid "Responder a %s"
+msgstr ""
+
+#: inc/comments.php:114
+msgid "Cancelar"
+msgstr ""
+
+#: inc/comments.php:115
+msgid "Publicar comentário"
+msgstr ""
+
+#: inc/comments.php:118
+msgid "Seu e-mail não será publicado. Os campos marcados com * são obrigatórios."
+msgstr ""
+
+#: inc/comments.php:119
+msgid "Comentário"
+msgstr ""
+
+#: inc/comments.php:119
+msgid "Escreva aqui o que achou, uma dúvida ou uma dica…"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Tecnologia & Educação"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Aprender, ensinar e compartilhar conhecimento."
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Artigos, tutoriais e reflexões sobre tecnologia aplicada à educação."
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Ler os artigos"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Sobre mim"
+msgstr ""
+
+#. translators: 1: nome do autor, 2: nome da rede social
+#: inc/discovery.php:56
+#, php-format
+msgid "%1$s no %2$s"
+msgstr ""
+
+#: inc/notices.php:39
+msgid "Aviso"
+msgstr ""
+
+#: inc/notices.php:52
+msgid "Fechar aviso"
+msgstr ""
+
+#: inc/notices.php:79
+msgid "Chamada"
+msgstr ""
+
+#: inc/reading.php:33 inc/reading.php:35
+msgid "Séries"
+msgstr ""
+
+#: inc/reading.php:34
+msgid "Série"
+msgstr ""
+
+#: inc/reading.php:36
+msgid "Todas as séries"
+msgstr ""
+
+#: inc/reading.php:37
+msgid "Editar série"
+msgstr ""
+
+#: inc/reading.php:38
+msgid "Ver série"
+msgstr ""
+
+#: inc/reading.php:39
+msgid "Atualizar série"
+msgstr ""
+
+#: inc/reading.php:40
+msgid "Adicionar nova série"
+msgstr ""
+
+#: inc/reading.php:41
+msgid "Nome da nova série"
+msgstr ""
+
+#: inc/reading.php:42
+msgid "Buscar séries"
+msgstr ""
+
+#: inc/reading.php:43
+msgid "Nenhuma série encontrada."
+msgstr ""
+
+#: inc/reading.php:44
+msgid "← Voltar para as séries"
+msgstr ""
+
+#: inc/reading.php:46
+msgid "Agrupa artigos em partes (Parte 1, 2, 3…), na ordem de publicação."
+msgstr ""
+
+#: inc/reading.php:131
+msgid "série"
+msgstr ""
+
+#. translators: 1: número da parte, 2: total de partes
+#: inc/reading.php:136
+#, php-format
+msgid "Parte %1$d de %2$d"
+msgstr ""
+
+#: inc/reading.php:152
+msgid "Ver a série completa"
+msgstr ""
+
+#. translators: %s: nome da série
+#: inc/reading.php:168
+#, php-format
+msgid "Partes da série %s"
+msgstr ""
+
+#. translators: %s: nome da série */ __( 'Partes da série %s', 'rootwp' ), $data['term']->name ) ); ?>"> <?php if ( $prev ) : ?> <a class="series-nav__link series-nav__link--prev" href="<?php echo esc_url( get_permalink( $prev ) ); ?>"> <span class="series-nav__dir"> <?php /* translators: %d: número da parte
+#: inc/reading.php:174
+#, php-format
+msgid "← Parte %d"
+msgstr ""
+
+#. translators: %d: número da parte
+#: inc/reading.php:185
+#, php-format
+msgid "Parte %d →"
+msgstr ""
+
+#. translators: %d: número da parte */ echo esc_html( sprintf( __( 'Parte %d →', 'rootwp' ), $data['index'] + 2 ) ); ?> </span> <span class="series-nav__title"><?php echo esc_html( get_the_title( $next ) ); ?></span> </a> <?php else : ?> <p class="series-nav__done"> <?php /* translators: %s: nome da série
+#: inc/reading.php:194
+#, php-format
+msgid "Você chegou à última parte de \"%s\". 🎉"
+msgstr ""
+
+#. translators: 1: nome da série, 2: número da parte
+#: inc/reading.php:213
+#, php-format
+msgid "%1$s · parte %2$d"
+msgstr ""
+
+#: inc/reading.php:228
+msgid "Tamanho do texto"
+msgstr ""
+
+#: inc/reading.php:229
+msgid "Diminuir o texto"
+msgstr ""
+
+#: inc/reading.php:230
+msgid "Tamanho padrão do texto"
+msgstr ""
+
+#: inc/reading.php:231
+msgid "Aumentar o texto"
+msgstr ""
+
+#. translators: %d: minutos de leitura
+#: inc/template-tags.php:76
+#, php-format
+msgid "%d min de leitura"
+msgid_plural "%d min de leitura"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:147
+msgid "Início"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgid "Trilha de navegação"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Anterior"
+msgstr ""
+
+#: inc/template-tags.php:174
+msgid "Próxima"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Navegação de posts"
+msgstr ""
+
+#: inc/template-tags.php:193 inc/template-tags.php:222
+msgid "Copiar link"
+msgstr ""
+
+#. translators: %s: nome da rede social
+#: inc/template-tags.php:233
+#, php-format
+msgid "Compartilhar no %s"
+msgstr ""
+
+#: inc/template-tags.php:240
+msgid "Compartilhar:"
+msgstr ""
+
+#. translators: %s: nome da rede social
+#: inc/template-tags.php:271
+#, php-format
+msgid "%s (link completo)"
+msgstr ""
+
+#: inc/template-tags.php:289
+msgid "Escrito por"
+msgstr ""
+
+#. translators: %d: quantidade de artigos
+#: inc/template-tags.php:306
+#, php-format
+msgid "Ver %d artigo"
+msgid_plural "Ver os %d artigos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tools.php:32
+msgid "Configurações importadas com sucesso."
+msgstr ""
+
+#: inc/tools.php:33
+msgid "Todas as opções do tema voltaram ao padrão."
+msgstr ""
+
+#: inc/tools.php:34
+msgid "Arquivo inválido: envie um .json exportado pelo Root WP."
+msgstr ""
+
+#: inc/tools.php:35
+msgid "Nenhum arquivo foi enviado."
+msgstr ""
+
+#: inc/tools.php:36
+msgid "Marque a confirmação antes de restaurar os padrões."
+msgstr ""
+
+#: inc/tools.php:79 inc/tools.php:97 inc/tools.php:143
+msgid "Sem permissão."
+msgstr ""
+
+#: inc/tools.php:163
+msgid "Exportar configurações"
+msgstr ""
+
+#: inc/tools.php:164
+msgid "Baixa um arquivo .json com todas as opções do painel Root WP e as configurações das categorias (layout, template, cor e capa). Use como backup ou para levar o visual para outro site."
+msgstr ""
+
+#: inc/tools.php:168
+msgid "Baixar arquivo de configurações"
+msgstr ""
+
+#: inc/tools.php:173
+msgid "Importar configurações"
+msgstr ""
+
+#: inc/tools.php:174
+msgid "Envie um arquivo exportado pelo Root WP. As opções atuais do painel são substituídas; as categorias são ajustadas pelo nome (slug) quando existirem neste site."
+msgstr ""
+
+#: inc/tools.php:175
+msgid "Imagens (logo, favicon, capas) são guardadas pelo ID da biblioteca de mídia: em outro site, elas precisam ser escolhidas de novo."
+msgstr ""
+
+#: inc/tools.php:180
+msgid "Importar"
+msgstr ""
+
+#: inc/tools.php:185 inc/tools.php:192
+msgid "Restaurar padrões"
+msgstr ""
+
+#: inc/tools.php:186
+msgid "Volta todas as abas do painel Root WP (logo, cores, cabeçalho, artigos, avisos, SEO, rodapé…) para o padrão do tema. Categorias, widgets, menus, posts e páginas não são alterados."
+msgstr ""
+
+#: inc/tools.php:187
+msgid "Dica: exporte as configurações antes, para poder voltar atrás."
+msgstr ""
+
+#: inc/tools.php:188
+msgid "Restaurar todas as opções do tema para o padrão?"
+msgstr ""
+
+#: inc/tools.php:191
+msgid "Entendo que as opções atuais do painel serão apagadas."
+msgstr ""
+
+#. translators: %s: nome do widget
+#: inc/widgets.php:38
+#, php-format
+msgid "Root WP – %s"
+msgstr ""
+
+#: inc/widgets.php:167
+msgid "Escolher"
+msgstr ""
+
+#: inc/widgets.php:223
+msgid "Busca"
+msgstr ""
+
+#: inc/widgets.php:223
+msgid "Campo de busca compacto com botão de lupa."
+msgstr ""
+
+#: inc/widgets.php:255
+msgid "Título (opcional):"
+msgstr ""
+
+#: inc/widgets.php:256
+msgid "Texto de exemplo no campo (vazio = \"Buscar artigos…\"):"
+msgstr ""
+
+#: inc/widgets.php:282 inc/widgets.php:283
+msgid "Posts recentes"
+msgstr ""
+
+#: inc/widgets.php:283
+msgid "Lista numerada dos últimos artigos."
+msgstr ""
+
+#: inc/widgets.php:345 inc/widgets.php:435 inc/widgets.php:513 inc/widgets.php:606 inc/widgets.php:737 inc/widgets.php:818
+msgid "Título:"
+msgstr ""
+
+#: inc/widgets.php:346 inc/widgets.php:436
+msgid "Quantidade:"
+msgstr ""
+
+#: inc/widgets.php:347
+msgid "Categoria:"
+msgstr ""
+
+#: inc/widgets.php:348
+msgid "Exibir data"
+msgstr ""
+
+#: inc/widgets.php:349
+msgid "Exibir miniatura (no lugar da numeração)"
+msgstr ""
+
+#: inc/widgets.php:384
+msgid "Comentários"
+msgstr ""
+
+#: inc/widgets.php:385
+msgid "Comentários recentes"
+msgstr ""
+
+#: inc/widgets.php:385
+msgid "Últimos comentários aprovados, com autor e trecho."
+msgstr ""
+
+#. translators: 1: autor do comentário, 2: título do post
+#: inc/widgets.php:415
+#, php-format
+msgid "%1$s em %2$s"
+msgstr ""
+
+#: inc/widgets.php:437
+msgid "Exibir trecho do comentário"
+msgstr ""
+
+#: inc/widgets.php:473 inc/widgets.php:474 inc/widgets.php:807
+msgid "Categorias"
+msgstr ""
+
+#: inc/widgets.php:474
+msgid "Categorias em pílulas ou em lista, com contagem opcional."
+msgstr ""
+
+#: inc/widgets.php:517 inc/widgets.php:742 inc/widgets.php:823
+msgid "Estilo:"
+msgstr ""
+
+#: inc/widgets.php:519
+msgid "Pílulas (como as bubbles dos cards)"
+msgstr ""
+
+#: inc/widgets.php:526
+msgid "Ordenar por:"
+msgstr ""
+
+#: inc/widgets.php:528
+msgid "Nome"
+msgstr ""
+
+#: inc/widgets.php:529
+msgid "Quantidade de posts"
+msgstr ""
+
+#: inc/widgets.php:532 inc/widgets.php:617
+msgid "Exibir quantidade de posts"
+msgstr ""
+
+#: inc/widgets.php:569 inc/widgets.php:570
+msgid "Arquivos"
+msgstr ""
+
+#: inc/widgets.php:570
+msgid "Posts agrupados por mês ou ano."
+msgstr ""
+
+#: inc/widgets.php:610
+msgid "Agrupar por:"
+msgstr ""
+
+#: inc/widgets.php:612
+msgid "Mês"
+msgstr ""
+
+#: inc/widgets.php:613
+msgid "Ano"
+msgstr ""
+
+#: inc/widgets.php:616
+msgid "Máximo de itens:"
+msgstr ""
+
+#: inc/widgets.php:663
+msgid "Tags"
+msgstr ""
+
+#: inc/widgets.php:664
+msgid "Nuvem de tags"
+msgstr ""
+
+#: inc/widgets.php:664
+msgid "As tags mais usadas, em nuvem ou em pílulas."
+msgstr ""
+
+#. translators: 1: nome da tag, 2: quantidade de artigos
+#: inc/widgets.php:719
+#, php-format
+msgid "%1$s (%2$d artigo)"
+msgid_plural "%1$s (%2$d artigos)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets.php:738
+msgid "Quantidade de tags:"
+msgstr ""
+
+#: inc/widgets.php:744
+msgid "Nuvem (tags mais usadas ficam maiores)"
+msgstr ""
+
+#: inc/widgets.php:745 inc/widgets.php:826
+msgid "Pílulas (todas do mesmo tamanho)"
+msgstr ""
+
+#: inc/widgets.php:751 inc/widgets.php:832
+msgid "Ordem:"
+msgstr ""
+
+#: inc/widgets.php:753
+msgid "Mais usadas primeiro"
+msgstr ""
+
+#: inc/widgets.php:754 inc/widgets.php:835
+msgid "Alfabética"
+msgstr ""
+
+#: inc/widgets.php:757
+msgid "Mostrar \"#\" antes de cada tag"
+msgstr ""
+
+#: inc/widgets.php:758
+msgid "Mostrar a quantidade de artigos"
+msgstr ""
+
+#: inc/widgets.php:808
+msgid "Nuvem de categorias"
+msgstr ""
+
+#: inc/widgets.php:808
+msgid "Categorias em nuvem ou pílulas, com a quantidade de posts de cada uma."
+msgstr ""
+
+#: inc/widgets.php:819
+msgid "Quantidade de categorias:"
+msgstr ""
+
+#: inc/widgets.php:825
+msgid "Nuvem (categorias com mais posts ficam maiores)"
+msgstr ""
+
+#: inc/widgets.php:834
+msgid "Com mais posts primeiro"
+msgstr ""
+
+#: inc/widgets.php:838
+msgid "Mostrar a quantidade de posts"
+msgstr ""
+
+#: inc/widgets.php:839
+msgid "Mostrar o marcador na cor da categoria"
+msgstr ""
+
+#: inc/widgets.php:840
+msgid "Ocultar a categoria padrão (\"Sem categoria\")"
+msgstr ""
+
+#: inc/widgets.php:923
+msgid "Vídeo do YouTube (inclusive Shorts) ou da biblioteca de mídia."
+msgstr ""
+
+#. translators: %s: título do vídeo
+#: inc/widgets.php:970
+#, php-format
+msgid "Assistir: %s"
+msgstr ""
+
+#: inc/widgets.php:973
+msgid "Reproduzir / pausar"
+msgstr ""
+
+#: inc/widgets.php:976
+msgid "Tela cheia"
+msgstr ""
+
+#: inc/widgets.php:978
+msgid "Ativar / desativar som"
+msgstr ""
+
+#: inc/widgets.php:981
+msgid "Volume"
+msgstr ""
+
+#: inc/widgets.php:1009
+msgid "Origem do vídeo:"
+msgstr ""
+
+#: inc/widgets.php:1012
+msgid "Biblioteca de mídia (MP4 / WebM)"
+msgstr ""
+
+#: inc/widgets.php:1017
+msgid "Link do vídeo (aceita Shorts):"
+msgstr ""
+
+#: inc/widgets.php:1018
+msgid "Começar em (ex.: 1:30) — opcional:"
+msgstr ""
+
+#: inc/widgets.php:1019
+msgid "Carregar o YouTube só ao clicar (recomendado: página mais rápida e sem cookies antes do clique)"
+msgstr ""
+
+#: inc/widgets.php:1022
+msgid "Biblioteca de mídia"
+msgstr ""
+
+#: inc/widgets.php:1023
+msgid "Arquivo de vídeo:"
+msgstr ""
+
+#: inc/widgets.php:1024
+msgid "Imagem de capa (opcional):"
+msgstr ""
+
+#: inc/widgets.php:1028
+msgid "Reprodução:"
+msgstr ""
+
+#: inc/widgets.php:1030
+msgid "Com controles (o visitante dá play)"
+msgstr ""
+
+#: inc/widgets.php:1031
+msgid "Automática, sem som e em loop (decorativo)"
+msgstr ""
+
+#: inc/widgets.php:1039
+msgid "Formato:"
+msgstr ""
+
+#: inc/widgets.php:1041
+msgid "Horizontal (16:9)"
+msgstr ""
+
+#: inc/widgets.php:1042
+msgid "Vertical (9:16) — Shorts e Reels"
+msgstr ""
+
+#: inc/widgets.php:1045
+msgid "Legenda (opcional):"
+msgstr ""
+
+#: inc/widgets.php:1087
+msgid "Playlist, álbum, música ou podcast do Spotify."
+msgstr ""
+
+#: inc/widgets.php:1147
+msgid "Álbum"
+msgstr ""
+
+#: inc/widgets.php:1148
+msgid "Música"
+msgstr ""
+
+#: inc/widgets.php:1149
+msgid "Artista"
+msgstr ""
+
+#: inc/widgets.php:1151
+msgid "Episódio"
+msgstr ""
+
+#. translators: %s: nome da playlist, álbum etc.
+#: inc/widgets.php:1167
+#, php-format
+msgid "Ouvir no Spotify: %s"
+msgstr ""
+
+#: inc/widgets.php:1178
+msgid "Ouvir no Spotify"
+msgstr ""
+
+#: inc/widgets.php:1203
+msgid "Link do Spotify (playlist, álbum, música, artista, podcast ou episódio):"
+msgstr ""
+
+#: inc/widgets.php:1205
+msgid "Link não reconhecido. Copie pelo Spotify em Compartilhar > Copiar link."
+msgstr ""
+
+#: inc/widgets.php:1210
+msgid "Tamanho:"
+msgstr ""
+
+#: inc/widgets.php:1212
+msgid "Completo, com a lista de faixas (352px)"
+msgstr ""
+
+#: inc/widgets.php:1213
+msgid "Compacto, só a faixa atual (152px)"
+msgstr ""
+
+#: inc/widgets.php:1219
+msgid "Cor do player:"
+msgstr ""
+
+#: inc/widgets.php:1221
+msgid "Colorido (padrão do Spotify)"
+msgstr ""
+
+#: inc/widgets.php:1225
+msgid "Carregar o player só ao clicar (recomendado)"
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid "Nada encontrado"
+msgstr ""
+
+#. translators: %s: link para novo post
+#: template-parts/content-none.php:17
+#, php-format
+msgid "Pronto para publicar seu primeiro artigo? <a href=\"%s\">Comece aqui</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Nenhum resultado para sua busca. Tente outras palavras-chave."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "Não encontramos o que você procura. Que tal fazer uma busca?"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Tema para blogs de tecnologia e educação, focado em leitura confortável. Painel próprio (Root WP) com paletas de cores e aviso de contraste, modo escuro, layouts por categoria, templates de post (Tutorial, Vídeo, Capa, Leitura focada), sumário automático, perfil do autor, widgets de vídeo e Spotify, SEO e prévia de compartilhamento, avisos e exportação de configurações. Fontes hospedadas no próprio tema."
+msgstr ""
